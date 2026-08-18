@@ -18,7 +18,7 @@ The absurd brand of FishingBucket and its neutrality of its use cases were estab
 FishingBucket aims to be the best proxy bot on its available platforms, unifying the previously-divided userbase of proxy bots. To achieve this, a primary objective of any new feature is to be as use case-agnostic and as general as possible.
 
 ## Features
-A full list of the features of FishingBucket can be found [here](/features). The highlights can be found here!
+A full list of the features of FishingBucket can be found [here](/features/index). The highlights can be found here!
 
 ### Proxies
 Proxies are the heart and soul of the functionalities of FishingBucket. They are profiles that can send messages, which can be created, switched, and deleted easily.
@@ -27,7 +27,7 @@ Proxies are the heart and soul of the functionalities of FishingBucket. They are
 Triggers are special patterns that messages are matched with to determine what to send through which proxy.
 
 ### Dashboard
-There is a web dashboard! The web dashboard can be found [here](/../dashboard). The dashboard provides an intuitive way to manipulate your data.
+There is a web dashboard! The web dashboard can be found [here](/../dashboard). The dashboard provides an intuitive way to manipulate user data.
 
 ### Moderation
 FishingBucket also collaborates with the moderators of communities. The bot provides functionalities such as permissions and logging, helping to mitigate misuses of the bot.
@@ -42,7 +42,7 @@ Beyond commands, FishingBucket also listens to other interactions like reactions
 Set a proxy to trigger on every message. There are many options to go with this feature, with modes like `latch`, `specific`, and `spotlight`.
 
 ### Spotlight
-Show off your proxies to the outside world (or keep them only for private). Give the spotlight of attention to a podium of proxies that you select. This can be used to represent anything!
+Show off one's proxies to the outside world (or keep them only for private). Give the spotlight of attention to a podium of proxies that were selected. This can be used to represent anything!
 
 ## Fin.
 This project would not be possible without the help of the community and the people using this bot!

@@ -18,7 +18,7 @@ The absurd brand of FishingBucket and its neutrality of its use cases were estab
 FishingBucket aims to be the best proxy bot on its available platforms, unifying the previously-divided userbase of proxy bots. To achieve this, a primary objective of any new feature is to be as use case-agnostic and as general as possible.
 
 ## Features
-A full list of the features of FishingBucket can be found [here](/features/index). The highlights can be found here!
+A full list of the features of FishingBucket can be found [here](/features/index.md). The highlights can be found here!
 
 ### Proxies
 Proxies are the heart and soul of the functionalities of FishingBucket. They are profiles that can send messages, which can be created, switched, and deleted easily.

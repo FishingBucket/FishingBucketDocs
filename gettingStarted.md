@@ -71,6 +71,7 @@ This guide was made because I was having issues with getting the bot setup and u
 `fish!delete [bypass: boolean]` - Deletes a proxied message.
 
 `fish!edit <message: string>` - Edits a proxied message.
+
 **Proxy Edit Commands**
 
 `fish!set avatar <proxy: proxy> [url: url]` - Updates a proxy's avatar.

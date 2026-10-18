@@ -20,6 +20,9 @@ FishingBucket aims to be the best proxy bot on its available platforms, unifying
 ## Features
 A full list of the features of FishingBucket can be found [here](/features/index.md). The highlights can be found here!
 
+## Getting Started
+The getting started page for FishingBucket can be found [here](/gettingStarted.md). 
+
 ### Proxies
 Proxies are the heart and soul of the functionalities of FishingBucket. They are profiles that can send messages, which can be created, switched, and deleted easily.
 

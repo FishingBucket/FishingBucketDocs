@@ -7,9 +7,9 @@ This guide was made because I was having issues with getting the bot setup and u
 
 ## Table of Contents
 
-1. Importing from Fishing Bucket, Pluralkit, Tupperbox, Utter.
-2. How to use autoproxy?
-3. Command list
+1. [Importing from Fishing Bucket, Pluralkit, Tupperbox, Utter.](/gettingStarted.md#importing-from-fishing-bucket-pluralkit-tupperbox-utter)
+2. [How to use autoproxy?](/gettingStarted.md#how-to-use-autoproxy)
+3. [Command list](/gettingStarted.md#command-list)
 
 ## Importing from Fishing Bucket, Pluralkit, Tupperbox, Utter.
 **Fishing bucket**
@@ -32,7 +32,7 @@ This guide was made because I was having issues with getting the bot setup and u
 > [!NOTE]
 > There is more than just the prefix in the commands below. I tend to personally use `fb!` but `fish!` is the main one listed in the documentation. (You can also ping the bot and run commands. Ex: `@FishingBucket help`)
 
-**Commands for the bot itself**
+### Commands for the bot itself
 
 `fish!ping` - Gets the bot's latency.
 
@@ -52,7 +52,7 @@ This guide was made because I was having issues with getting the bot setup and u
 
 `fish!help [topic: string]` - Provides information about this bot or about a command.
 
-**Proxy Commands**
+### Proxy Commands
 
 `fish!register <name: string> <trigger: template>` - Registers a proxy to be used.
 
@@ -72,7 +72,7 @@ This guide was made because I was having issues with getting the bot setup and u
 
 `fish!edit <message: string>` - Edits a proxied message.
 
-**Proxy Edit Commands**
+### Proxy Edit Commands
 
 `fish!set avatar <proxy: proxy> [url: url]` - Updates a proxy's avatar.
 
@@ -96,7 +96,7 @@ This guide was made because I was having issues with getting the bot setup and u
 
 `fish!nuke` - Deletes every proxy associated with your account.
 
-**Tag Commands**
+### Tag Commands
 
 `fish!tag register <name: string> [description: string]` - Creates a new tag.
 
@@ -114,13 +114,13 @@ This guide was made because I was having issues with getting the bot setup and u
 
 `fish!tag delete <tag: proxy tag>` - Deletes a tag.
 
-**Import / Export Commands**
+### Import / Export Commands
 
 `fish!import [file: url] [origin: origin]` - Imports proxy data from a file.
 
 `fish!export` - Generates an export of your data.
 
-**Community Staff Commands**
+### Community Staff Commands
 
 `fish!permissions set <targets: #channel OR @role OR @users OR 'community'> <allow: boolean OR 'default'>` - Changes which members can proxy within the community.
 
@@ -132,7 +132,7 @@ This guide was made because I was having issues with getting the bot setup and u
 
 `fish!log view` - Views the channel that was set as the logging channel in this community.
 
-**User Commands**
+### User Commands
 
 `fish!privacy list` - Lists your privacy settings.
 
@@ -148,7 +148,7 @@ This guide was made because I was having issues with getting the bot setup and u
 
 `fish!account delete` - Deletes every information related to your account.
 
-**Dice Commands**
+### Dice Commands
 
 `fish!dice <expression: string>` - Roll dice or perform arithmetics.
 
@@ -158,7 +158,7 @@ This guide was made because I was having issues with getting the bot setup and u
 
 `fish!environment remove <target: 'user' OR 'community'> <name: word>` - Removes a dice variable or function.
 
-**Spotlight Commands**
+### Spotlight Commands
 
 `fish!spotlight list` - Shows your current spotlight.
 

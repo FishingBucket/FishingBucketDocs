@@ -1,28 +1,49 @@
-# Getting started with Fishing Bucket!  
+# Getting started with FishingBucket!  
 
 > [!NOTE]
-> This was made as of October 17, 2026. (This will be updated as this guide gets updated.)
+> This was made as of October 19, 2026. (This will be updated as this guide gets updated.)
 
 This guide was made because I was having issues with getting the bot setup and understanding things, So I hope this helps.
 
 ## Table of Contents
 
-1. [Importing from Fishing Bucket, Pluralkit, Tupperbox, Utter.](/gettingStarted.md#importing-from-fishing-bucket-pluralkit-tupperbox-utter)
+1. [Importing from FishingBucket, Pluralkit, Tupperbox, Utter.](/gettingStarted.md#importing-from-fishingbucket-pluralkit-tupperbox-utter)
 2. [How to use autoproxy?](/gettingStarted.md#how-to-use-autoproxy)
 3. [Command list](/gettingStarted.md#command-list)
 
-## Importing from Fishing Bucket, Pluralkit, Tupperbox, Utter.
-**Fishing bucket**
+## Importing from FishingBucket, Pluralkit, Tupperbox, Utter.
 
+> [!WARNING]
+> If you wish to use FishingBucket, PluralKit, or Tupperbox you will need to have your DMs enabled so the bots are able to send you the File/Link in your dms that you will need for the import.
 
-**Pluralkit**
+> [!TIP]
+> If these commands dont work, or you are having issues. Please join the community over on Fluxer https://fluxer.gg/fishingbucket and someone will help you.
 
+### Fishing bucket
 
-**Tupperbox**
+Step 1: Run the command `fish!export` in any channel FishingBucket is in. FishingBucket will give you a file called `fishing_bucket.json` in your dms with FishingBucket. 
 
+Step 2: In your DMs with FishingBucket, Run the command `fish!import fishing_bucket` and upload the file you got.
 
-**Utter**
+### Pluralkit
 
+Step 1: Go to a channel that PluralKit has access to and run the command `pk;export` and they will send you a DM with a Link/File.
+
+Step 2: In your DMs with FishingBucket, Run the command `fish!import <URL> pluralkit` (Replacing \<URL> with the URL PluralKit gave you) or `fish!import pluralkit` and upload the file.
+
+### Tupperbox
+
+Step 1: Go to any channel that Tupperbox has access to and run the command `tul!export` and grab the link/file.
+
+Step 2: In your DMs with FishingBucket, Run the command `fish!import <URL> Tupperbox` (Replacing \<URL> with the URL Tupperbox gave you) or `fish!import Tupperbox` and upload the file.
+
+### Utter
+
+Step 1: Go to their website (https://utter.y2k.diy/)
+
+Step 2: Click `Options` at the bottom then click `export system information in PluralKit format`, It will give you a JSON called `utter-system.json`.
+
+Step 3: In your DMs with FishingBucket, Run this command `fish!import utter` and upload the file the website gave you.
 
 ## How to use autoproxy?
 
